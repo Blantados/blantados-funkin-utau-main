@@ -1,0 +1,18 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=120.00
+Tracks=1
+ProjectName=New Project
+VoiceDir=*Peri FNF voicebank
+OutFile=newfile.wav
+CacheDir=chrom.cache
+Tool1=wavtool.exe
+Tool2=fresamp.exe
+[#0000]
+Length=1920
+Lyric=a
+NoteNum=60
+Intensity=100
+Modulation=0
+[#TRACKEND]

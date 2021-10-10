@@ -4,6 +4,9 @@ Here are all the UTAU voicebanks I use for my videos! Feel free to use them for 
 
 The main voicebanks by GenoX are not included here so you have to download them on his page!
 
+# NOTICE:
+Since some of you people are asking why some of the voicebanks won't work, it's probably because those were extra voicebanks I tend to use for like one sample or smthn. So if they don't work, if you have Audacity, just place the .wav files in Audacity and re-export them. Then they should work fine.
+
 Please credit me if you end up using these voicebanks.
 
 Links and Stuff:  
